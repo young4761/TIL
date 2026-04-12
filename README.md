@@ -38,7 +38,7 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
-- [2026-04-13-AI의-주식종목-선정-역할](ai-agent/2026-04-13-AI의-주식종목-선정-역할.md)
+- [2026-04-13-AI-주식종목-선정](ai-agent/2026-04-13-AI-주식종목-선정.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 
