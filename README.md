@@ -14,8 +14,6 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
-- [2026-04-10-n8n-자동화-팁](n8n/2026-04-10-n8n-자동화-팁.md)
-
 - [2026-02-22-n8n-완전-무료로-호스팅하기](n8n/2026-02-22-n8n-완전-무료로-호스팅하기.md)
 
 - [2026-02-22-n8n-클라우드-완전-무료-호스팅-구축기](n8n/2026-02-22-n8n-클라우드-완전-무료-호스팅-구축기.md)
@@ -39,6 +37,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
+
+- [2026-04-13-AI의-주식종목-선정-역할](ai-agent/2026-04-13-AI의-주식종목-선정-역할.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 
